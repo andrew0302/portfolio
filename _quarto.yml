@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Andrew M. Demetriou"
+  navbar:
+    left:
+      - text: "About"
+        href: about.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Blog"
+        href: blog.qmd
+      - text: "Licensing"
+        href: licenses.qmd
+    right:
+      - icon: github
+        href: https://github.com/andrew0302/portfolio
+
+  page-footer:
+    left: |
+      © 2025 Andrew [Lastname]  
+      Code licensed under [MIT License](https://opensource.org/licenses/MIT).  
+      Site content licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+format:
+  html:
+    theme: cosmo
+    toc: true
