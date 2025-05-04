@@ -10,8 +10,8 @@ page-layout: full
 ![](images/IMG_2439.jpg){width=250px style="border-radius: 50%; margin-bottom: 1em;"}
 
 ### Andrew M. Demetriou  
-Intelligent Systems PhD Candidate
-<span class="highlight-blue">Delft University of Technology</span>
+##### Intelligent Systems PhD Candidate
+##### <span class="highlight-blue">Delft University of Technology</span>
 
 
 <span class="bi bi-envelope-fill"></span> [Email](mailto:andrew.m.demetriou@gmail.com)  
@@ -39,11 +39,13 @@ Intelligent Systems PhD Candidate
 
 ::: {.column width="50%"}
 ### Education
-- <i class="bi bi-mortarboard-fill"></i> **PhD in Artificial Intelligence**, 
-  (ABD) Delft University of Technology  
+<i class="bi bi-mortarboard-fill"></i> 
+**PhD in Artificial Intelligence**,  
+(ABD) Delft University of Technology  
 
-- <i class="bi bi-mortarboard-fill"></i> **Research MSc in Psychology**, 
-  Vrije Universiteit Amsterdam, Cum Laude 
+<i class="bi bi-mortarboard-fill"></i> 
+**Research MSc in Psychology**,  
+Vrije Universiteit Amsterdam, Cum Laude  
 :::
 
 :::
