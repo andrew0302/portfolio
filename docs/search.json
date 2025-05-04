@@ -2,8 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "portfolio",
+    "title": "Bio",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "under construction"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Andrew M. Demetriou\nIntelligent Systems PhD Candidate Delft University of Technology\n Email\n LinkedIn\n Scholar\n GitHub\n ORCID\n\n\nAndrew M. Demetriou is a PhD candidate in the Intelligent Systems department at Delft University of Technology. He works as part of a lab aimed at increasing the trustworthiness of AI technology, focusing on how to gather and evaluate the quality of data used as Ground Truth in AI systems. Specifically, he applies knowledge from the fields of Psychometrics and Survey Science to develop reproducible data gathering and evaluation procedures from participants.\n\n\n\nInterests\n\nResponsible AI Systems\n\nGround Truthing for AI\n\nAI for Social Science\n\nOpen Science\n\n\n\n\n\nEducation\n\n PhD in Artificial Intelligence, (ABD) Delft University of Technology\n Research MSc in Psychology, Vrije Universiteit Amsterdam, Cum Laude"
   }
 ]

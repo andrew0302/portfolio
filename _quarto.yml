@@ -20,11 +20,11 @@ website:
 
   page-footer:
     left: |
-      © 2025 Andrew [Lastname]  
-      Code licensed under [MIT License](https://opensource.org/licenses/MIT).  
-      Site content licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+     © 2025 Andrew Lastname  •  Code licensed under [MIT](https://opensource.org/licenses/MIT)  •  Content under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
+    css: styles.css
     toc: true
+    
