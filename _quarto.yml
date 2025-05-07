@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Andrew M. Demetriou"
+  title: "HOME"
   navbar:
     left:
       - text: "About"

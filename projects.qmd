@@ -1,0 +1,27 @@
+---
+title: ""
+page-layout: full
+format: html
+toc: false
+---
+
+## Towards Estimating Values from Lyrics
+
+#### [ISMIR 2025](https://ismir.net) (under review) [<i class="bi bi-github"></i>](https://github.com/andrew0302/values_from_lyrics_ISMIR2025)
+
+::::: columns
+
+::: {.column width="50%"}
+Most widely consumed music in Western countries includes song lyrics, with US samples indicating that nearly all personal song libraries contain lyrics. Social science theory suggests that personal values expressed in widely consumed text, like song lyrics, may align with or diverge from those of the listener, potentially shaping their response to the music. This highlights the potential of automated value estimation in lyrics for downstream music information retrieval (MIR) tasks, like personalization. Like prior work, we adopt a perspectivist approach informed by social science theory to reliably collect annotations and assess their quality. We then use a novel approach to automatically estimate values in song lyrics using large language models (LLMs), combined with programmatic prompt optimizer DSPy, gathering multiple estimates from each LLM to estimate intra-model reliability. We then compare aggregated human ratings with aggregated ratings from a subset of the most reliable LLMs, showing promising initial results. At the same time, in response to concerns about the energy footprint of LLMs, we monitor energy usage. We conclude that the results are a positive step forward in terms of estimating values in lyrics, but open challenges remain on the side of reliability and power requirements.
+:::
+
+::: {.column width="50%"}
+![](images/wave_llm_participant_0na_byvalue_cor.png){width="100%" style="border-radius: 0.5rem; margin-bottom: 1rem;"}
+:::
+:::::
+
+## Position: Stop Making Unscientific AGI Performance Claims
+
+#### [ICML'24](https://dl.acm.org/doi/abs/10.5555/3692070.3692121)
+
+Developments in the field of Artificial Intelligence (AI), and particularly large language models (LLMs), have created a 'perfect storm' for observing 'sparks' of Artificial General Intelligence (AGI) that are spurious. Like simpler models, LLMs distill meaningful representations in their latent embeddings that have been shown to correlate with external variables. Nonetheless, the correlation of such representations has often been linked to human-like intelligence in the latter but not the former. We probe models of varying complexity including random projections, matrix decompositions, deep autoencoders and transformers: all of them successfully distill information that can be used to predict latent or external variables and yet none of them have previously been linked to AGI. We argue and empirically demonstrate that the finding of meaningful patterns in latent spaces of models cannot be seen as evidence in favor of AGI. Additionally, we review literature from the social sciences that shows that humans are prone to seek such patterns and anthropomorphize. We conclude that both the methodological setup and common public image of AI are ideal for the misinterpretation that correlations between model representations and some variables of interest are 'caused' by the model's understanding of underlying 'ground truth' relationships. We, therefore, call for the academic community to exercise extra caution, and to be keenly aware of principles of academic integrity, in interpreting and communicating about AI research outcomes.
