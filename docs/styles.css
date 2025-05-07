@@ -1,6 +1,7 @@
-/* Import a clean, thin sans-serif font */
+/* Import sans-serif font */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
 
+/* text color and padding*/
 body {
   background-color: var(--bs-primary);
   color: white;
@@ -10,10 +11,11 @@ body {
   padding-right: 1rem;
 }
 
+/* adjustments for mobile */
 @media (min-width: 768px) {
   body {
-    padding-left: 0;
-    padding-right: 0;
+    padding-left: 5px;
+    padding-right: 5px;
   }
 }
 
@@ -23,24 +25,25 @@ body {
   z-index: 1000;
 }
 
-/* Column padding */
-.col-md-4, .col-md-8 {
-  padding: 1rem;
-}
-
 /* Highlighted text in light blue */
 .highlight-blue {
   color: #66d9ef; /* pastel/light blue */
   font-weight: 400;
 }
 
+/* column spacing*/
 .columns {
-  gap: 2rem;
+  gap: 2px;
   margin-bottom: 2rem;
 }
 
+.column img {
+  margin-right: 5rem;
+  margin-bottom: 1em;
+}
+
 .column {
-  padding: 1rem 0;
+  padding: 1.5rem 0;
 }
 
 @media (max-width: 576px) {

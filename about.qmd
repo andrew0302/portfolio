@@ -7,7 +7,8 @@ page-layout: full
 :::: {.columns}
 
 ::: {.column width="40%"}
-![](images/IMG_2439.jpg){width=250px style="border-radius: 50%; margin-bottom: 1em;"}
+
+![](images/IMG_2445.jpg){width=250px style="border-radius: 50%; margin-bottom: 1em;"}
 
 ### Andrew M. Demetriou  
 ##### Intelligent Systems PhD Candidate
@@ -17,7 +18,8 @@ page-layout: full
 <span class="bi bi-envelope-fill"></span> [Email](mailto:andrew.m.demetriou@gmail.com)  
 <span class="bi bi-linkedin"></span> [LinkedIn](https://www.linkedin.com/in/andrew-m-demetriou/)  
 <span class="bi bi-google"></span> [Scholar](https://scholar.google.nl/citations?user=TFnVkFQAAAAJ&hl=en)  
-<span class="bi bi-github"></span> [GitHub](https://github.com/andrew0302)  
+<span class="bi bi-github"></span> 
+[GitHub](https://github.com/andrew0302)  
 <span class="bi bi-box-arrow-up-right"></span> [ORCID](https://orcid.org/0000-0002-0724-2278)
 
 
@@ -25,30 +27,23 @@ page-layout: full
 
 ::: {.column width="60%"}
 
-## About
-
-<span class="highlight-blue">**Andrew M. Demetriou**</span> is a PhD candidate in the Intelligent Systems department at Delft University of Technology. He works as part of a lab aimed at increasing the trustworthiness of AI technology, focusing on how to gather and evaluate the quality of data used as Ground Truth in AI systems. Specifically, he applies knowledge from the fields of Psychometrics and Survey Science to develop reproducible data gathering and evaluation procedures from participants.
+As a Trustworthy Artificial Intelligence (AI) systems as a PhD candidate in the Intelligent Systems department at Delft University of Technology, in the lab of [Cynthia C. S. Liem](https://www.cynthialiem.com/), I study how we design, collect, and analyze the data we use to evaluate AI systems - often called the "Gold Standard" or the "Ground Truth". As a PhD candidate, I bring in knowledge from the Social Sciences, particularly [Psychometrics](https://en.wikipedia.org/wiki/Psychometrics), to critique and inform best practices for how to go about the process of "Ground Truthing". 
 
 :::: {.columns}
 
-::: {.column width="50%"}
-### Interests
-
-- Responsible AI Systems  
-- Ground Truthing for AI  
-- AI for Social Science  
-- Open Science  
-:::
-
-::: {.column width="50%"}
 ### Education
 <i class="bi bi-mortarboard-fill"></i> 
-**PhD in Artificial Intelligence**,  
+**PhD in Computer Science**,  
 (ABD) Delft University of Technology  
 
 <i class="bi bi-mortarboard-fill"></i> 
 **Research MSc in Psychology**,  
 Vrije Universiteit Amsterdam, Cum Laude  
-:::
+
+<i class="bi bi-mortarboard-fill"></i> 
+**BA in Philosphy and Political Science**,
+CUNY Queens College
 
 :::
+
+::::

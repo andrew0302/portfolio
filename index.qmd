@@ -1,5 +1,38 @@
 ---
-title: "Bio"
+title: ""
 ---
 
-under construction
+<style>
+.add-space{
+padding-right: 10%;
+}
+</style>
+
+:::: {.columns}
+
+::: {.column width="40%" .add-space}
+
+![](images/IMG_2439.jpg){width=350px style="border-radius: 50%; margin-bottom: 1em; margin-right: 5rem;"}
+
+
+<span class="bi bi-envelope-fill"></span> [Email](mailto:andrew.m.demetriou@gmail.com)  
+<span class="bi bi-linkedin"></span> [LinkedIn](https://www.linkedin.com/in/andrew-m-demetriou/)  
+<span class="bi bi-google"></span> [Scholar](https://scholar.google.nl/citations?user=TFnVkFQAAAAJ&hl=en)  
+<span class="bi bi-github"></span> 
+[GitHub](https://github.com/andrew0302)  
+<span class="bi bi-box-arrow-up-right"></span> [ORCID](https://orcid.org/0000-0002-0724-2278)
+
+:::
+
+::: {.column width="50%"}
+
+
+#### My name is <span class="highlight-blue">**Andrew M. Demetriou**</span>, and I work on Trustworthy and Responsible Artificial Intelligence. 
+
+
+
+I aim to bring more thought to how we measure the performance of AI systems, by integrating knowledge from the social sciences, and the science of measurement to 'ground-truthing' - the process of designing, gathering, and evaluating the data we use to measure the performance of AI systems. 
+
+:::
+
+:::
