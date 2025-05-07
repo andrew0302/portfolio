@@ -33,3 +33,24 @@ body {
   color: #66d9ef; /* pastel/light blue */
   font-weight: 400;
 }
+
+.columns {
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.column {
+  padding: 1rem 0;
+}
+
+@media (max-width: 576px) {
+  .column img {
+    width: 150px !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .column {
+    text-align: center;
+  }
+}
