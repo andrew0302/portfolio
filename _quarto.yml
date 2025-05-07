@@ -16,8 +16,7 @@ website:
       - icon: github
         href: https://github.com/andrew0302/portfolio
 
-  page-footer:
-    left: |
+  page-footer: |
      © 2025 Andrew M. Demetriou  •  Code licensed under [MIT](https://opensource.org/licenses/MIT)  •  Content under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 format:

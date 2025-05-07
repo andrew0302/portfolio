@@ -22,7 +22,7 @@ padding-right: 10%;
 [GitHub](https://github.com/andrew0302)  
 <span class="bi bi-box-arrow-up-right"></span> [ORCID](https://orcid.org/0000-0002-0724-2278)
 
-:::
+::::
 
 ::: {.column width="50%"}
 
@@ -33,6 +33,6 @@ padding-right: 10%;
 
 I aim to bring more thought to how we measure the performance of AI systems, by integrating knowledge from the social sciences, and the science of measurement to 'ground-truthing' - the process of designing, gathering, and evaluating the data we use to measure the performance of AI systems. 
 
-:::
+::::
 
-:::
+
