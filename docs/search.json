@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "HOME",
     "section": "",
-    "text": "Email\n LinkedIn\n Scholar\n GitHub\n ORCID\n\n\nMy name is Andrew M. Demetriou, and I work on Trustworthy and Responsible Artificial Intelligence.\nI aim to bring more thought to how we measure the performance of AI systems, by integrating knowledge from the social sciences, and the science of measurement to ‘ground-truthing’ - the process of designing, gathering, and evaluating the data we use to measure the performance of AI systems."
+    "text": "Andrew M. Demetriou\n Email\n LinkedIn\n Scholar\n GitHub\n ORCID\n\n\n\nI work on Trustworthy AI.\nI aim to bring more thought to how we measure the performance of AI systems, by bringing knowledge from the social sciences into ‘ground-truthing’ - the process of designing, gathering, and evaluating the data we use to measure the performance of AI systems.\n\nView My Projects"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "HOME",
     "section": "",
-    "text": "Andrew M. Demetriou\n\nIntelligent Systems PhD Candidate\n\n\nDelft University of Technology\n Email\n LinkedIn\n Scholar\n GitHub\n ORCID\n\n\n\nAs a Trustworthy Artificial Intelligence (AI) systems as a PhD candidate in the Intelligent Systems department at Delft University of Technology, in the lab of Cynthia C. S. Liem, I study how we design, collect, and analyze the data we use to evaluate AI systems - often called the “Gold Standard” or the “Ground Truth”. As a PhD candidate, I bring in knowledge from the Social Sciences, particularly Psychometrics, to critique and inform best practices for how to go about the process of “Ground Truthing”.\n\n\nEducation\n PhD in Computer Science,\n(ABD) Delft University of Technology\n Research MSc in Psychology,\nVrije Universiteit Amsterdam, Cum Laude\n BA in Philosphy and Political Science, CUNY Queens College"
+    "text": "Andrew M. Demetriou\n Email\n LinkedIn\n Scholar\n GitHub\n ORCID\n\n\nAs a Trustworthy Artificial Intelligence (AI) systems as a PhD candidate in the Intelligent Systems department at Delft University of Technology, in the lab of Cynthia C. S. Liem, I study how we design, collect, and analyze the data we use to evaluate AI systems - often called the “Gold Standard” or the “Ground Truth”. As a PhD candidate, I bring in knowledge from the Social Sciences, particularly Psychometrics, to critique and inform best practices for how to go about the process of “Ground Truthing”.\n\n\nEducation\n PhD in Computer Science,\n(ABD) Delft University of Technology\n Research MSc in Psychology,\nVrije Universiteit Amsterdam, Cum Laude\n BA in Philosphy and Political Science, CUNY Queens College"
   },
   {
     "objectID": "about.html#about",
@@ -23,9 +23,9 @@
   {
     "objectID": "licenses.html",
     "href": "licenses.html",
-    "title": "Licensing",
+    "title": "HOME",
     "section": "",
-    "text": "📜 Licensing This repository is dual-licensed to support both code reuse and responsible content sharing:\n🧑‍💻 Code (e.g. R scripts, Quarto setup) is licensed under the MIT License. → You are free to use, modify, and distribute the code, as long as attribution is given.\n📄 Written content (e.g. blog posts, project write-ups, thesis commentary) is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). → This allows sharing and adaptation, with attribution.\nIf you’re unsure how to reuse any part of this project or you’d like to collaborate, feel free to open an issue or contact me by email."
+    "text": "📜 Licensing: This repository is dual-licensed to support both code reuse and responsible content sharing:\n💻 Code: Repositories with code (e.g. R scripts, Quarto setup) is licensed under the MIT License. → You are free to use, modify, and distribute the code, as long as attribution is given.\n📄 Written content: Text and other descriptions (e.g. project write-ups) are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). → This allows sharing and adaptation, with attribution.\nIf you’re unsure how to reuse any part of this project or you’d like to collaborate, feel free to open an issue or contact me by email."
   },
   {
     "objectID": "projects.html",

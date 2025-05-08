@@ -4,15 +4,20 @@ format: html
 page-layout: full
 ---
 
+<style>
+.add-space-r{
+padding-right: 5%;
+}
+</style>
+
+
 :::: {.columns}
 
-::: {.column width="40%"}
+::: {.column width="40%" .add-space-r}
 
-![](images/IMG_2445.jpg){width=250px style="border-radius: 50%; margin-bottom: 1em;"}
-
-### Andrew M. Demetriou  
-##### Intelligent Systems PhD Candidate
-##### <span class="highlight-blue">Delft University of Technology</span>
+![](images/IMG_2445.jpg){width=350px style="border-radius: 50%; margin-bottom: 1em;"}
+<div class="contact-links">
+#### <span class="name-highlight-2">**Andrew M. Demetriou**</span> 
 
 
 <span class="bi bi-envelope-fill"></span> [Email](mailto:andrew.m.demetriou@gmail.com)  
@@ -21,7 +26,7 @@ page-layout: full
 <span class="bi bi-github"></span> 
 [GitHub](https://github.com/andrew0302)  
 <span class="bi bi-box-arrow-up-right"></span> [ORCID](https://orcid.org/0000-0002-0724-2278)
-
+</div>
 
 :::
 

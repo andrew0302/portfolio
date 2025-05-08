@@ -1,11 +1,11 @@
 ---
-title: "Licensing"
+title: ""
 ---
 
-📜 Licensing This repository is dual-licensed to support both code reuse and responsible content sharing:
+📜 <span class="highlight">**Licensing**</span>: This repository is dual-licensed to support both code reuse and responsible content sharing:
 
-🧑‍💻 Code (e.g. R scripts, Quarto setup) is licensed under the [MIT License](https://opensource.org/license/MIT). → You are free to use, modify, and distribute the code, as long as attribution is given.
+💻 <span class="highlight">**Code**</span>: Repositories with code (e.g. R scripts, Quarto setup) is licensed under the [MIT License](https://opensource.org/license/MIT). → You are free to use, modify, and distribute the code, as long as attribution is given.
 
-📄 Written content (e.g. blog posts, project write-ups, thesis commentary) is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0). → This allows sharing and adaptation, with attribution.
+📄 <span class="highlight">**Written content**</span>: Text and other descriptions (e.g. project write-ups) are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0). → This allows sharing and adaptation, with attribution.
 
 If you're unsure how to reuse any part of this project or you'd like to collaborate, feel free to open an issue or contact me by email.
