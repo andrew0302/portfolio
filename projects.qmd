@@ -8,7 +8,7 @@ toc: false
 <div style="text-align: center;">
 ## Towards Automatic Personal Value Estimation in Song Lyrics with Large Language Models
 </div>
-::::: columns
+::::: {.columns .responsive-columns}
 
 ::: {.column width="50%"}
 
