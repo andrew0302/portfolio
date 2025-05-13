@@ -11,7 +11,7 @@ padding-right: 5%;
 </style>
 
 
-:::: {.columns}
+:::: {.columns .responsive-columns}
 
 ::: {.column width="40%" .add-space-r}
 

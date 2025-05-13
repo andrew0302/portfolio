@@ -32,16 +32,13 @@ body {
 
 
 /* adjustments for mobile */
-@media (min-width: 768px) {
-  body {
-    padding-left: 5px;
-    padding-right: 5px;
+@media (max-width: 768px) {
+   .responsive-columns {
+    flex-direction: column !important;
   }
-}
-@media (max-width: 576px) {
-  .column img {
-    width: 150px !important;
-    text-align: center;
+  .responsive-columns > .column {
+    width: 100% !important;
+    margin-bottom: 1rem;
   }
 }
 
