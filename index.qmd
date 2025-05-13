@@ -9,7 +9,7 @@ padding-right: 10%;
 }
 </style>
 
-:::: {.columns}
+:::: {.columns .responsive-columns}
 
 ::: {.column width="40%" .add-space-r}
 
