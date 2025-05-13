@@ -13,13 +13,19 @@ toc: false
 
 [ISMIR 2025](https://ismir.net) (under review) · [Supplement](https://andrew0302.github.io/values_from_lyrics_ISMIR2025/) · [<i class="bi bi-github"></i>](https://github.com/andrew0302/values_from_lyrics_ISMIR2025)
 
-Very popular music in Western countries usually includes lyrics. In this work, we 'ground' personal values in song lyrics, using theory from the Social Sciences. We then evaluate a group of language models on their ability to estimate these values from the lyrics. We show small to moderate positive correlations overall. This is a work we submitted to ISMIR 2025 and is under review. 
+Popular Western music almost always includes lyrics. In this work, we 'ground' personal values in lyrics, using theory from the Social Sciences. We then evaluate a group of language models on how well they estimate values in the lyrics. Figure shows pearson correlations between mean ratings of participants from a US sample stratified by ethnicity with mean ratings of 3 runs per model (gemma2:9b, phi4,qwen2.5:7b), by value. We show small to moderate positive correlations overall. 
 :::
 
 ::: {.column width="50%" style="padding-left: 1rem;"}
-<div style="background-color: white; padding: 0.5rem; border-radius: 0.5rem; margin-bottom: 0.5rem;">
-![](images/wave_llm_participant_0na_byvalue_cor.png){width="100%" style="border-radius: 1.5rem; margin-bottom: 0.5rem;"}
+<div style="background-color: white; padding: 0.25rem; border-radius: 0.25rem; margin-bottom: 0.5rem;">
+![](images/wave_llm_participant_0na_byvalue_cor.png){width="100%" style="border-radius: 1rem; margin-bottom: 0.25rem;"}
 </div>
+
+<div style="font-size: 0.875rem;">
+
+</div>
+
+
 
 :::
 :::::
@@ -29,4 +35,6 @@ Very popular music in Western countries usually includes lyrics. In this work, w
 [ICML'24](https://dl.acm.org/doi/abs/10.5555/3692070.3692121) ·
 [arXiv](https://arxiv.org/abs/2402.03962)
 
-Developments in AI and related fields, particularly large language models (LLMs), have created a 'perfect storm' for observing 'sparks' of Artificial General Intelligence (AGI) that are spurious. We argue and show that finding of meaningful patterns in the latent spaces of these models isn't evidence of AGI. We review literature from the social sciences on anthropomorphization, and how both the methods and public image of AI are ideal for the misinterpretation of output as 'understanding'. We call for more caution in the interpretations of research results from the academic community. 
+Developments in AI and related fields, particularly large language models (LLMs), have created a 'perfect storm' for observing 'sparks' of Artificial General Intelligence (AGI) that are spurious. We argue and show that finding of meaningful patterns in the latent spaces of these models isn't evidence of AGI. Figure shows model outputs in response to sentences about inflation and deflation of prices (IP and DP), and inflation and deflation of birds (IB and DB). The vertical axis shows predicted inflation levels subtracted by the average predicted value of the probe for random noise. If the model had 'understood', we would expect a significant difference in the predictions - instead we find the outputs are similar. We review literature from the social sciences on anthropomorphization, and how both the methods and public image of AI are ideal for the misinterpretation of output as 'understanding'. We call for more caution in the interpretations of research results from the academic community. 
+
+![](images/attack_all_measures.png)
