@@ -13,7 +13,9 @@ padding-right: 10%;
 
 ::: {.column width="40%" .add-space-r}
 
-![](images/IMG_2439.jpg){width=300px style="border-radius: 50%; margin-bottom: .25em; margin-right: 5rem;"}
+![](images/IMG_2439.jpg){width=300px style="display: block; margin-left: auto; margin-right: auto; border-radius: 1rem; margin-bottom: 1rem;"}
+
+
 
 <div class="contact-links">
 #### <span class="name-highlight-2">**Andrew M. Demetriou**</span> 

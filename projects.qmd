@@ -47,6 +47,34 @@ Developments in AI and related fields, particularly large language models (LLMs)
 <div style="text-align: justify;"> Machine learning (ML) models play a big role in systems that help people make decisions - like what to buy, read, or watch, especially for massive repositories of content. These systems are trained on large datasets, but there’s no consistent way people collect data and report the process by which it collected or labeled. In this study, we looked at the 100 most-cited papers on recommender systems from the most highly cited conferences and journals, to see what they report about the data they use in their work. We found that important details - like who did the labeling, what quality checks were done, or whether the data is publicly available - are often missing. Many papers rely on a small set of benchmark datasets, with missing or otherwise very little information on how the data was originally gathered. This makes it hard to assess or reproduce results. We argue that future work should pay more attention to data quality and transparency, not just model performance, especially given the social impact of these systems. </div>
 
 <div style="text-align: center;">
+## Alexandria: A proof-of-concept micropublication platform
+</div>
+::::: {.columns .responsive-columns}
+
+::: {.column width="50%"}
+
+[Website](https://alexandria.ewi.tudelft.nl/about)  · [Open Science Framework](https://osf.io/hd5nu/) · [<i class="bi bi-github"></i>](https://github.com/Alexandria-TEMP)
+
+<div style="text-align: justify;">
+Alexandria is a design for a collaborative open-source platform for publishing, discussing, and developing scientific research. It was designed in conversation with Cynthia Liem's lab at TU Delft, and two software bachelor student groups, and one masters UX design student. The aim was to combine version control (git) with an intuitive, community-driven interface inspired by wikipedia. Users can share reflections, ask questions, or publish work. 
+
+The definition of 'work' is broad, and includes data, code, or any other relevant material. Everything remains editable, and can be copied and changed by the community: inspired by Wikipedia, it encourages micro-publication, and collaboration on shared materials similar to articles - but with a focus on the narrow topics and additional materials needed for science. Changes are proposed and reviewed by peers with relevant expertise - although formally defining this process would require further study. Posts themselves are Quarto repositories rendered into readable html pages, bridging the gap between code and final research outputs. 
+
+</div>
+
+
+:::
+
+::: {.column width="50%" style="padding-left: 1rem;"}
+<div style="padding: 0.25rem; border-radius: 0.25rem; margin-bottom: 0.5rem;">
+![](images/logo32white.svg){width="80%" style="float: right; margin-bottom: 0.25rem;"}
+</div>
+
+:::
+
+:::::
+
+<div style="text-align: center;">
 ## Psychology Meets Machine Learning: Interdisciplinary Perspectives on Algorithmic Job Candidate Screening
 </div>
 
@@ -54,16 +82,7 @@ Developments in AI and related fields, particularly large language models (LLMs)
 
 <div style="text-align: justify;"> As machine learning is used more often in areas that affect people directly, its role in hiring processes—especially job candidate screening—is growing. Automated, data-driven assessment offers scalability and consistency, but it will only be trusted if it’s transparent and easy to explain. This chapter was developed through ongoing conversations between psychologists and computer scientists, and explores job candidate screening from both perspectives. We begin with an overview of key research practices in psychology and machine learning, then compare how each field approaches assessment. A use case is presented: a machine learning-based screening system designed to be understandable for non-technical hiring professionals. We also reflect on traditional hiring methods and discuss what it takes for tech-supported tools to be accepted by decision-makers. The chapter closes with practical advice for building stronger collaborations between technical and social science fields on this important topic. </div>
 
-<div style="text-align: center;">
-## A quasi-experimental investigation of differences between face-to-face and videoconference interviews in an actual selection process
-</div>
-[Applied Psychology, 2025](https://iaap-journals.onlinelibrary.wiley.com/doi/full/10.1111/apps.12558)
-
-<div style="text-align: justify;">
-Videoconference interviews are becoming more common as a time-efficient means to meet candidates, leading to questions about whether Face-To-Face interviews may have resulted in different perceptions of interview performance. Recent studies on the topic used simulated interview scenarios. The COVID-19 pandemic resulted in a quasi-experiment for a large European organization that had started a hiring process prior to the lockdowns, but had to continue during lockdown. Analysis of the hiring data showed only small-non significant differences, suggesting that differences observed in prior work might be smaller than previously thought. 
-</div>
-
 
 <div style="text-align: center;">
-### Check out my other publications on <span class="bi bi-google"></span> [Scholar](https://scholar.google.nl/citations?user=TFnVkFQAAAAJ&hl=en) 
+### Check out my other work on <span class="bi bi-google"></span> [Scholar](https://scholar.google.nl/citations?user=TFnVkFQAAAAJ&hl=en) and
 </div>

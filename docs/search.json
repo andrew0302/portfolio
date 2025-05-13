@@ -32,7 +32,7 @@
     "href": "projects.html",
     "title": "",
     "section": "",
-    "text": "ICML, 2024 · arXiv\nWorkshop: Perspectives on the Evaluation of Recommender Systems, 2023\nBook: Explainable and Interpretable Models in Computer Vision and Machine Learning, 2018\nApplied Psychology, 2025"
+    "text": "ICML, 2024 · arXiv\nWorkshop: Perspectives on the Evaluation of Recommender Systems, 2023\nBook: Explainable and Interpretable Models in Computer Vision and Machine Learning, 2018"
   },
   {
     "objectID": "projects.html#towards-estimating-values-from-lyrics-cultural-meaning-at-scale",
@@ -81,7 +81,7 @@
     "href": "about.html#shaping-ai-with-measurement",
     "title": "",
     "section": "",
-    "text": "I think of AI system evaluations as measurements. The more precise the measurement, the better we can align AI systems it. I had an interest in measurement for some time, and have had the opportunity to work on a range of projects: VR-based field studies, hormones from hair and saliva samples, psychometric questionnaires, electro-cardiac measures using the VU-DAMS, in Psychology in Criminology, in academia and industry. I think of the data that we use to evaluate AI systems - often called the “gold standard” or the “ground truth” - as a measurement problem, and pursuit of useful ways to measure AI systems as a key challenge. I try to bring in knowledge from the way other fields measure, to improve AI system evaluations.\nMy thesis aimed to understand how to design, collect, and analyze ground truth, in challenging situations where there is no single truth, but rather multiple perspectives. It also informs generally how to “ground” psychological phenomena in text. The case study of my thesis involved measuring the basic values in song lyrics and political speeches. I brought knowledge from the Social Sciences, particularly psychometrics, to inform how to go about the process of “grounding” as a Trustworthy Artificial Intelligence (AI) systems PhD candidate in the Intelligent Systems department at Delft University of Technology, in the lab of Cynthia C. S. Liem.\n\n\n\n PhD in Computer Science,\n(ABD) Delft University of Technology\n Research MSc in Psychology,\nVrije Universiteit Amsterdam, Cum Laude\n BA in Philosphy and Political Science, CUNY Queens College"
+    "text": "I think of AI system evaluations as measurements. The more precise the measurement, the more precisely we can align AI systems. I study how best to gather the measurements that we use to evaluate AI systems - often called the “gold standard” or the “ground truth” - and see it as the key challenge for the immediate future of AI. I bring in knowledge of the way other fields measure from my experience - VR-based field studies, hormones from hair and saliva samples, psychometric questionnaires, electro-cardiac measures using the VU-DAMS, in Psychology in Criminology, in academia and industry - to the measurement of AI behavior.\nMy PhD thesis aimed to understand how to design, collect, and analyze ground truth, in challenging situations where there is no single truth, but rather multiple perspectives. It also informs generally how to “ground” psychological phenomena in text. The case study of my thesis involved measuring the basic values in song lyrics and political speeches. I brought knowledge from the Social Sciences, particularly psychometrics, to inform how to go about the process of “grounding” as a Trustworthy Artificial Intelligence (AI) systems PhD candidate in the Intelligent Systems department at Delft University of Technology, in the lab of Cynthia C. S. Liem.\nI’m now looking to build on my experiences in a way that benefits as many people as possible. Download my CV or connect with me on LinkedIn.\n\n\n\n\n PhD in Computer Science,\n(ABD) Delft University of Technology\n Research MSc in Psychology,\nVrije Universiteit Amsterdam, Cum Laude\n BA in Philosphy and Political Science, CUNY Queens College"
   },
   {
     "objectID": "projects.html#towards-automatic-personal-value-estimation-in-song-lyrics-with-large-language-models",
@@ -117,5 +117,19 @@
     "title": "",
     "section": "Psychology Meets Machine Learning: Interdisciplinary Perspectives on Algorithmic Job Candidate Screening",
     "text": "Psychology Meets Machine Learning: Interdisciplinary Perspectives on Algorithmic Job Candidate Screening"
+  },
+  {
+    "objectID": "projects.html#alexandria-towards-a-proof-of-concept-micropublication-platform",
+    "href": "projects.html#alexandria-towards-a-proof-of-concept-micropublication-platform",
+    "title": "",
+    "section": "Alexandria: Towards a proof-of-concept micropublication platform",
+    "text": "Alexandria: Towards a proof-of-concept micropublication platform"
+  },
+  {
+    "objectID": "projects.html#alexandria-a-proof-of-concept-micropublication-platform",
+    "href": "projects.html#alexandria-a-proof-of-concept-micropublication-platform",
+    "title": "",
+    "section": "Alexandria: A proof-of-concept micropublication platform",
+    "text": "Alexandria: A proof-of-concept micropublication platform"
   }
 ]
