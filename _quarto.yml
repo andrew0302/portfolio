@@ -3,9 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "HOME"
+  title: ""
   navbar:
     left:
+      - text: "HOME"
+        href: index.qmd 
       - text: "About"
         href: about.qmd
       - text: "Projects"
@@ -13,8 +15,9 @@ website:
       - text: "Licensing"
         href: licenses.qmd
     right:
-      - icon: github
-        href: https://github.com/andrew0302/portfolio
+      - text: "email me:"
+      - icon: envelope
+        href: "mailto:andrew.m.demetriou@gmail.com"
 
   page-footer: |
      © 2025 Andrew M. Demetriou  •  Code licensed under [MIT](https://opensource.org/licenses/MIT)  •  Content under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

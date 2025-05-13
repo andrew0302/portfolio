@@ -2,14 +2,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "HOME",
+    "title": "",
     "section": "",
-    "text": "Andrew M. Demetriou\n Email\n LinkedIn\n Scholar\n GitHub\n ORCID\n\n\n\nI work on Trustworthy AI.\nI aim to bring more thought to how we measure the performance of AI systems, by bringing knowledge from the social sciences into ‘ground-truthing’ - the process of designing, gathering, and evaluating the data we use to measure the performance of AI systems.\n\nView My Projects"
+    "text": "Andrew M. Demetriou\n Email\n LinkedIn\n Scholar\n GitHub\n ORCID\n\n\n\nI work on Trustworthy AI.\nI aim to bring more thought to how we measure the performance of AI systems, by bringing knowledge from the social sciences into  ground-truthing  - the process of designing, gathering, and evaluating the data we use to measure the performance of AI systems.\n\nView My Projects"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "HOME",
+    "title": "",
     "section": "",
     "text": "Andrew M. Demetriou\n Email\n LinkedIn\n Scholar\n GitHub\n ORCID\n\n\nAs a Trustworthy Artificial Intelligence (AI) systems as a PhD candidate in the Intelligent Systems department at Delft University of Technology, in the lab of Cynthia C. S. Liem, I study how we design, collect, and analyze the data we use to evaluate AI systems - often called the “Gold Standard” or the “Ground Truth”. As a PhD candidate, I bring in knowledge from the Social Sciences, particularly Psychometrics, to critique and inform best practices for how to go about the process of “Ground Truthing”.\n\n\nEducation\n PhD in Computer Science,\n(ABD) Delft University of Technology\n Research MSc in Psychology,\nVrije Universiteit Amsterdam, Cum Laude\n BA in Philosphy and Political Science, CUNY Queens College"
   },
@@ -23,14 +23,14 @@
   {
     "objectID": "licenses.html",
     "href": "licenses.html",
-    "title": "HOME",
+    "title": "",
     "section": "",
     "text": "📜 Licensing: This repository is dual-licensed to support both code reuse and responsible content sharing:\n💻 Code: Repositories with code (e.g. R scripts, Quarto setup) is licensed under the MIT License. → You are free to use, modify, and distribute the code, as long as attribution is given.\n📄 Written content: Text and other descriptions (e.g. project write-ups) are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). → This allows sharing and adaptation, with attribution.\nIf you’re unsure how to reuse any part of this project or you’d like to collaborate, feel free to open an issue or contact me by email."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "HOME",
+    "title": "",
     "section": "",
     "text": "Most widely consumed music in Western countries includes song lyrics, with US samples indicating that nearly all personal song libraries contain lyrics. Social science theory suggests that personal values expressed in widely consumed text, like song lyrics, may align with or diverge from those of the listener, potentially shaping their response to the music. This highlights the potential of automated value estimation in lyrics for downstream music information retrieval (MIR) tasks, like personalization. Like prior work, we adopt a perspectivist approach informed by social science theory to reliably collect annotations and assess their quality. We then use a novel approach to automatically estimate values in song lyrics using large language models (LLMs), combined with programmatic prompt optimizer DSPy, gathering multiple estimates from each LLM to estimate intra-model reliability. We then compare aggregated human ratings with aggregated ratings from a subset of the most reliable LLMs, showing promising initial results. At the same time, in response to concerns about the energy footprint of LLMs, we monitor energy usage. We conclude that the results are a positive step forward in terms of estimating values in lyrics, but open challenges remain on the side of reliability and power requirements."
   },
@@ -44,7 +44,7 @@
   {
     "objectID": "projects.html#towards-estimating-values-from-lyrics",
     "href": "projects.html#towards-estimating-values-from-lyrics",
-    "title": "HOME",
+    "title": "",
     "section": "",
     "text": "Most widely consumed music in Western countries includes song lyrics, with US samples indicating that nearly all personal song libraries contain lyrics. Social science theory suggests that personal values expressed in widely consumed text, like song lyrics, may align with or diverge from those of the listener, potentially shaping their response to the music. This highlights the potential of automated value estimation in lyrics for downstream music information retrieval (MIR) tasks, like personalization. Like prior work, we adopt a perspectivist approach informed by social science theory to reliably collect annotations and assess their quality. We then use a novel approach to automatically estimate values in song lyrics using large language models (LLMs), combined with programmatic prompt optimizer DSPy, gathering multiple estimates from each LLM to estimate intra-model reliability. We then compare aggregated human ratings with aggregated ratings from a subset of the most reliable LLMs, showing promising initial results. At the same time, in response to concerns about the energy footprint of LLMs, we monitor energy usage. We conclude that the results are a positive step forward in terms of estimating values in lyrics, but open challenges remain on the side of reliability and power requirements."
   },
@@ -58,8 +58,22 @@
   {
     "objectID": "projects.html#position-stop-making-unscientific-agi-performance-claims",
     "href": "projects.html#position-stop-making-unscientific-agi-performance-claims",
-    "title": "HOME",
+    "title": "",
     "section": "Position: Stop Making Unscientific AGI Performance Claims",
     "text": "Position: Stop Making Unscientific AGI Performance Claims\n\nICML’24\nDevelopments in the field of Artificial Intelligence (AI), and particularly large language models (LLMs), have created a ‘perfect storm’ for observing ‘sparks’ of Artificial General Intelligence (AGI) that are spurious. Like simpler models, LLMs distill meaningful representations in their latent embeddings that have been shown to correlate with external variables. Nonetheless, the correlation of such representations has often been linked to human-like intelligence in the latter but not the former. We probe models of varying complexity including random projections, matrix decompositions, deep autoencoders and transformers: all of them successfully distill information that can be used to predict latent or external variables and yet none of them have previously been linked to AGI. We argue and empirically demonstrate that the finding of meaningful patterns in latent spaces of models cannot be seen as evidence in favor of AGI. Additionally, we review literature from the social sciences that shows that humans are prone to seek such patterns and anthropomorphize. We conclude that both the methodological setup and common public image of AI are ideal for the misinterpretation that correlations between model representations and some variables of interest are ‘caused’ by the model’s understanding of underlying ‘ground truth’ relationships. We, therefore, call for the academic community to exercise extra caution, and to be keenly aware of principles of academic integrity, in interpreting and communicating about AI research outcomes."
+  },
+  {
+    "objectID": "index.html#i-work-on-trustworthy-ai.",
+    "href": "index.html#i-work-on-trustworthy-ai.",
+    "title": "",
+    "section": "",
+    "text": "I aim to bring more thought to how we measure the performance of AI systems, by bringing knowledge from the social sciences into ‘ground-truthing’ - the process of designing, gathering, and evaluating the data we use to measure the performance of AI systems.\n\nView My Projects"
+  },
+  {
+    "objectID": "index.html#i-aim-to-bring-more-thought-to-how-we-measure-the-performance-of-ai-systems-by-bringing-knowledge-from-the-social-sciences-into-ground-truthing---the-process-of-designing-gathering-and-evaluating-the-data-we-use-to-measure-the-performance-of-ai-systems.",
+    "href": "index.html#i-aim-to-bring-more-thought-to-how-we-measure-the-performance-of-ai-systems-by-bringing-knowledge-from-the-social-sciences-into-ground-truthing---the-process-of-designing-gathering-and-evaluating-the-data-we-use-to-measure-the-performance-of-ai-systems.",
+    "title": "",
+    "section": "",
+    "text": "View My Projects"
   }
 ]

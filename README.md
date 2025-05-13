@@ -1,4 +1,4 @@
-📜 Licensing
+📜 Licensing:
 This repository is dual-licensed to support both code reuse and responsible content sharing:
 
 🧑‍💻 Code (e.g. R scripts, Quarto setup) is licensed under the MIT License.

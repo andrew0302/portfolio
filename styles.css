@@ -94,6 +94,10 @@ body {
   z-index: 1000;
 }
 
+.nav-link.active {
+  color: #66d9ef !important; /* your accent color */
+}
+
 /* button */
 .project-button {
   margin-top: 1.5rem;
@@ -110,6 +114,6 @@ body {
 }
 
 .btn-accent:hover {
-  background-color: #5ac6de;
+  background-color: #3498db;
   color: #fff;
 }
