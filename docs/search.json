@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "",
     "section": "",
-    "text": "Andrew M. Demetriou\n Email\n LinkedIn\n Scholar\n GitHub\n ORCID\n\n\n\nI work on Trustworthy AI.\nI aim to bring more thought to how we measure the performance of AI systems, by bringing knowledge from the social sciences into  ground-truthing  - the process of designing, gathering, and evaluating the data we use to measure the performance of AI systems.\n\nView My Projects"
+    "text": "Andrew M. Demetriou\n Email\n LinkedIn\n Scholar\n GitHub\n ORCID\n\n\n\nI work on Trustworthy AI.\n\nI aim to bring more thought to how we measure the performance of AI systems, by bringing knowledge from the social sciences into  ground-truthing  - the process of designing, gathering, and evaluating the data we use to measure the performance of AI systems.\n\n\nView My Projects"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "",
     "section": "",
-    "text": "Andrew M. Demetriou\n Email\n LinkedIn\n Scholar\n GitHub\n ORCID\n\n\n\nShaping AI with Measurement\nI think of AI system evaluations as measurements. The more precise the measurement, the better we can align AI systems it.I think of the data that we use to evaluate AI systems - often called the “gold standard” or the “ground truth” - as a measurement problem, and pursuit of useful ways to measure AI systems as a key challenge. I try to bring in knowledge from my experience of the way other fields measure - VR-based field studies, hormones from hair and saliva samples, psychometric questionnaires, electro-cardiac measures using the VU-DAMS, in Psychology in Criminology, in academia and industry - to improve how we evaluate AI.\nMy PhD thesis aimed to understand how to design, collect, and analyze ground truth, in challenging situations where there is no single truth, but rather multiple perspectives. It also informs generally how to “ground” psychological phenomena in text. The case study of my thesis involved measuring the basic values in song lyrics and political speeches. I brought knowledge from the Social Sciences, particularly psychometrics, to inform how to go about the process of “grounding” as a Trustworthy Artificial Intelligence (AI) systems PhD candidate in the Intelligent Systems department at Delft University of Technology, in the lab of Cynthia C. S. Liem.\nI’m now looking to build on my experiences in a way that benefits as many people as possible. Download my CV or connect with me on LinkedIn.\n\n\n\nEducation\n PhD in Computer Science,\n(ABD) Delft University of Technology\n Research MSc in Psychology,\nVrije Universiteit Amsterdam, Cum Laude\n BA in Philosphy and Political Science, CUNY Queens College"
+    "text": "Andrew M. Demetriou\n Email\n LinkedIn\n Scholar\n GitHub\n ORCID\n\n\n\nShaping AI with Measurement\n\nI think of AI system evaluations as measurements. The more precise the measurement, the more precisely we can align AI systems. I study how best to gather the measurements that we use to evaluate AI systems - often called the “gold standard” or the “ground truth” - and see it as the key challenge for the immediate future of AI. I bring in knowledge of the way other fields measure from my experience - VR-based field studies, hormones from hair and saliva samples, psychometric questionnaires, electro-cardiac measures using the VU-DAMS, in Psychology in Criminology, in academia and industry - to the measurement of AI behavior.\nMy PhD thesis aimed to understand how to design, collect, and analyze ground truth, in challenging situations where there is no single truth, but rather multiple perspectives. It also informs generally how to “ground” psychological phenomena in text. The case study of my thesis involved measuring the basic values in song lyrics and political speeches. I brought knowledge from the Social Sciences, particularly psychometrics, to inform how to go about the process of “grounding” as a Trustworthy Artificial Intelligence (AI) systems PhD candidate in the Intelligent Systems department at Delft University of Technology, in the lab of Cynthia C. S. Liem.\nI’m now looking to build on my experiences in a way that benefits as many people as possible. Download my CV or connect with me on LinkedIn.\n\n\n\n\nEducation\n PhD in Computer Science,\n(ABD) Delft University of Technology\n Research MSc in Psychology,\nVrije Universiteit Amsterdam, Cum Laude\n BA in Philosphy and Political Science, CUNY Queens College"
   },
   {
     "objectID": "about.html#about",
@@ -32,7 +32,7 @@
     "href": "projects.html",
     "title": "",
     "section": "",
-    "text": "ICML’24 · arXiv\nDevelopments in AI and related fields, particularly large language models (LLMs), have created a ‘perfect storm’ for observing ‘sparks’ of Artificial General Intelligence (AGI) that are spurious. We argue and show that finding of meaningful patterns in the latent spaces of these models isn’t evidence of AGI. Figure shows model outputs in response to sentences about inflation and deflation of prices (IP and DP), and inflation and deflation of birds (IB and DB). The vertical axis shows predicted inflation levels subtracted by the average predicted value of the probe for random noise. If the model had ‘understood’, we would expect a significant difference in the predictions - instead we find the outputs are similar. We review literature from the social sciences on anthropomorphization, and how both the methods and public image of AI are ideal for the misinterpretation of output as ‘understanding’. We call for more caution in the interpretations of research results from the academic community."
+    "text": "ICML, 2024 · arXiv\nWorkshop: Perspectives on the Evaluation of Recommender Systems, 2023\nBook: Explainable and Interpretable Models in Computer Vision and Machine Learning, 2018\nApplied Psychology, 2025"
   },
   {
     "objectID": "projects.html#towards-estimating-values-from-lyrics-cultural-meaning-at-scale",
@@ -89,5 +89,33 @@
     "title": "",
     "section": "",
     "text": "ISMIR 2025 (under review) · Supplement · \nVery popular music in Western countries usually includes lyrics. In this work, we ‘ground’ personal values in song lyrics, using theory from the Social Sciences. We then evaluate a group of language models on their ability to estimate these values from the lyrics. We show small to moderate positive correlations overall. This is a work we submitted to ISMIR 2025 and is under review."
+  },
+  {
+    "objectID": "projects.html#a-quasi-experimental-investigation-of-differences-between-face-to-face-and-videoconference-interviews-in-an-actual-selection-process",
+    "href": "projects.html#a-quasi-experimental-investigation-of-differences-between-face-to-face-and-videoconference-interviews-in-an-actual-selection-process",
+    "title": "",
+    "section": "A quasi-experimental investigation of differences between face-to-face and videoconference interviews in an actual selection process",
+    "text": "A quasi-experimental investigation of differences between face-to-face and videoconference interviews in an actual selection process"
+  },
+  {
+    "objectID": "projects.html#check-out-my-other-publications-here-scholar",
+    "href": "projects.html#check-out-my-other-publications-here-scholar",
+    "title": "",
+    "section": "Check out my other publications here:  Scholar",
+    "text": "Check out my other publications here:  Scholar"
+  },
+  {
+    "objectID": "projects.html#annotation-practices-in-societally-impactful-machine-learning-applications-what-are-popular-recommender-systems-models-actually-trained-on",
+    "href": "projects.html#annotation-practices-in-societally-impactful-machine-learning-applications-what-are-popular-recommender-systems-models-actually-trained-on",
+    "title": "",
+    "section": "Annotation Practices in Societally Impactful Machine Learning Applications: What are Popular Recommender Systems Models Actually Trained On?",
+    "text": "Annotation Practices in Societally Impactful Machine Learning Applications: What are Popular Recommender Systems Models Actually Trained On?"
+  },
+  {
+    "objectID": "projects.html#psychology-meets-machine-learning-interdisciplinary-perspectives-on-algorithmic-job-candidate-screening",
+    "href": "projects.html#psychology-meets-machine-learning-interdisciplinary-perspectives-on-algorithmic-job-candidate-screening",
+    "title": "",
+    "section": "Psychology Meets Machine Learning: Interdisciplinary Perspectives on Algorithmic Job Candidate Screening",
+    "text": "Psychology Meets Machine Learning: Interdisciplinary Perspectives on Algorithmic Job Candidate Screening"
   }
 ]

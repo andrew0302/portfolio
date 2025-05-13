@@ -32,9 +32,9 @@ padding-right: 10%;
 
 
 ### I work on <span class="highlight">Trustworthy</span> AI. 
-
+<div style="text-align: justify;">
 I aim to bring more thought to how we measure the performance of AI systems, by bringing knowledge from the social sciences into <span class="highlight"> **ground-truthing** </span> - the process of designing, gathering, and evaluating the data we use to measure the performance of AI systems. 
-
+</div>
 
 
 <div class="contact-links">
