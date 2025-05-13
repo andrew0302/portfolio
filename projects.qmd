@@ -24,12 +24,6 @@ Popular Western music almost always includes lyrics. In this work, we 'ground' p
 ![](images/wave_llm_participant_0na_byvalue_cor.png){width="100%" style="border-radius: 1rem; margin-bottom: 0.25rem;"}
 </div>
 
-<div style="font-size: 0.875rem;">
-
-</div>
-
-
-
 :::
 :::::
 <div style="text-align: center;">
