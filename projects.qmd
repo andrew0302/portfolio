@@ -6,7 +6,7 @@ toc: false
 ---
 
 <div style="text-align: center;">
-## Personal Value Ratings for Predidential Speeches
+## Personal Value Ratings for Presidential Speeches
 </div>
 ::::: {.columns .responsive-columns}
 
