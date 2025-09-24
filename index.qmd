@@ -33,15 +33,21 @@ padding-right: 10%;
 ::: {.column width="60%" .add-space-r}
 
 
-### I work on <span class="highlight">Trustworthy</span> AI. 
+### A <span class="highlight">Social Data</span> Scientist. 
 <div style="text-align: justify;">
-I aim to bring more thought to how we measure the performance of AI systems, by bringing knowledge from the social sciences into <span class="highlight"> **ground-truthing** </span> - the process of designing, gathering, and evaluating the data we use to measure the performance of AI systems. 
+I aim to bring more thought to how we design, collect, and analyze data, and how we organize, document, and present results, by bringing together my experience in the social and data sciences, and from working in industry, non-profit, and academia. 
 </div>
+
+
 
 
 <div class="contact-links">
 [View My Projects](projects.qmd){.btn .btn-accent .project-button}
+<a href="CV/cv.pdf" class="btn btn-accent project-button" download>Download My CV</a>
+
 </div>
+
+
 :::
 
 ::::
