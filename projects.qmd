@@ -6,6 +6,26 @@ toc: false
 ---
 
 <div style="text-align: center;">
+## Personal Value Ratings for Predidential Speeches
+</div>
+::::: {.columns .responsive-columns}
+
+::: {.column width="50%"}
+
+[Dashboard](https://vzvyvk-andrew-demetriou.shinyapps.io/Speeches_Dashboard/) · [<i class="bi bi-github"></i>](https://github.com/andrew0302/speeches_dashboard)
+
+<div style="text-align: justify;">
+
+Presidential speeches provide a rich context for examining how differently values are perceived when it comes to political communication. In this work, we ‘ground’ personal values in excerpts from US Presidential State of the Union addresses, using theory from the Social Sciences. Participants from a US sample rated speech excerpts on ten Schwartz values. We then examined how differently participants rated the values of the speech, based on their own political leanings. The dashboard shows average ratings by party, as well as a multidimensional scaling map that places presidents in a two-dimensional space based on similarities in their value profiles. Together, these views allow exploration of differences in ratings across presidents.
+</div>
+:::
+
+::: {.column width="50%" style="padding-left: 1rem;"}
+<div style="background-color: white; padding: 0.25rem; border-radius: 0.25rem; margin-bottom: 0.5rem;">
+![](images/speeches_dashboard_2.png){width="100%" style="border-radius: 1rem; margin-bottom: 0.25rem;"}
+</div>
+:::
+<div style="text-align: center;">
 ## Towards Automatic Personal Value Estimation in Song Lyrics with Large Language Models
 </div>
 ::::: {.columns .responsive-columns}

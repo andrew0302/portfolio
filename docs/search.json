@@ -87,8 +87,8 @@
     "objectID": "projects.html#towards-automatic-personal-value-estimation-in-song-lyrics-with-large-language-models",
     "href": "projects.html#towards-automatic-personal-value-estimation-in-song-lyrics-with-large-language-models",
     "title": "",
-    "section": "",
-    "text": "ISMIR 2025 (under review) · Supplement · \nVery popular music in Western countries usually includes lyrics. In this work, we ‘ground’ personal values in song lyrics, using theory from the Social Sciences. We then evaluate a group of language models on their ability to estimate these values from the lyrics. We show small to moderate positive correlations overall. This is a work we submitted to ISMIR 2025 and is under review."
+    "section": "Towards Automatic Personal Value Estimation in Song Lyrics with Large Language Models",
+    "text": "Towards Automatic Personal Value Estimation in Song Lyrics with Large Language Models"
   },
   {
     "objectID": "projects.html#a-quasi-experimental-investigation-of-differences-between-face-to-face-and-videoconference-interviews-in-an-actual-selection-process",
